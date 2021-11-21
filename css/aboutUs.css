@@ -461,6 +461,9 @@ section {
   right: 20%;
 }
 
+p.trust-details {
+  height: 145px;
+}
 @media only screen and (max-width: 967px) {
   .sub-over {
     display: none;
